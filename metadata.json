@@ -1,0 +1,5 @@
+{
+  "name": "Slash Game",
+  "description": "A strategic logic game (Plus-Slash) played on a 3x3 grid. Features PvP and PvE modes with a strict dark theme.",
+  "requestFramePermissions": []
+}
