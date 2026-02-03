@@ -5,7 +5,7 @@ interface CellProps {
   value: SymbolType;
   onClick: () => void;
   isLastMove: boolean;
-  isValid: boolean; // Optional: could allow highlighting valid moves
+  isValid?: boolean; // Made optional with '?'
   disabled: boolean;
 }
 
